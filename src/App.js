@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Sayandeep/>
-      <Func1/>
+      <Func1/> 
       <Mondira/>
     </div>
   );
