@@ -1,11 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Sayandeep from './Components/1';
 
+import Sayandeep from './Components/1';
+import Func1 from './Components/2';
 function App() {
   return (
     <div className="App">
       <Sayandeep/>
+      <Func1/>
     </div>
   );
 }
