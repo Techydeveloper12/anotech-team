@@ -3,7 +3,7 @@ import React from 'react'
 function abc() {
   return (
     <div>
-        <p>Mondira Chanda</p>
+        <h1>Mondira Chanda</h1>
     </div>
   )
 }
